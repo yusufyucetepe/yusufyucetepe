@@ -1,4 +1,4 @@
-# Hi I'm Yusuf 👋
+## Hi I'm Yusuf 👋
 
 - 🎓 Third-year Linguistics student at İstanbul University, teaching myself backend
 - ⚙️ Python, FastAPI, PostgreSQL, Redis, Docker
